@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rysertio</title>
+    <link>/</link>
+    <description>Recent content on Rysertio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Nov 2022 03:25:39 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 25 Nov 2022 03:49:34 +0600</pubDate>
+      
+      <guid>/about/</guid>
+      <description>আসসালামু আলাইকুম,
+আমি আয়েশা জাফ্রিন (Alias: Rysertio) একজন বাংলাদেশি ব্লগার। আমি অ্যানিমে দেখতে পছন্দ করি। কিন্তু পড়াশুনার প্যারায় সেটা এখন আর সেভাবে করা হয় না। আমাকে খুঁজে পাওয়া যাবেঃ
+Akkoma Twitch Peertube Github Youtube</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Fri, 25 Nov 2022 03:25:39 +0600</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>বাংলা উচ্চারণের নিয়ম</title>
+      <link>/posts/bangla-uccharoner-niyom/</link>
+      <pubDate>Thu, 24 Nov 2022 03:25:39 +0600</pubDate>
+      
+      <guid>/posts/bangla-uccharoner-niyom/</guid>
+      <description>Written by Rysertio
+বাংলা ভাষায় বানান ও উচ্চারণ বেশ আলাদা। এর মুল কারণ বাংলা ভাষার বেশীরভাগ শব্দের বানান এসেছে সংস্কৃত থেকে, কিন্তু সেগুলোর উচ্চারণ লোকমুখে পরিবর্তিত হয়ে আমাদের বর্তমানে ব্যাবহার করা বাংলা উচ্চারণে পরিণত হয়েছে। এর ফলে ক্ষ এর উচ্চারণ ক+খ হয়েছে, যদিও বানানে লেখা হয় ক+ষ। নিচে উচ্চারণের কয়েকটা নিয়ম দেয়া হল। উল্লেখ্য ব্যাকরণের সব নিয়মের মতই এগুলোর ব্যাতিক্রম আছে।
+এগুলোকে 2 ভাগে ভাগ করা যায়ঃ
+স্বরবর্ণ উচ্চারণের নিয়ম ব্যাঞ্জনবর্ণ উচ্চারণের নিয়ম স্বরবর্ণ উচ্চারণের নিয়ম সকল স্বরবর্ণে প্রযোজ্য</description>
+    </item>
+    
+  </channel>
+</rss>
